@@ -20,87 +20,87 @@
     background-color: var(--color-body-white);
 }
 
-
-.Web{
+.logo{
     color: var(--color-body-blue);
-    font-size:26px;
+    font-size: 26px;
 }
 
-.Studio{
-    color:var(--color-body-web);
-    font-size:26px;
+.logo_current_1{
+    color: var(--color-body-web);
+    font-size: 26px;
 }
 
-.li{
+.link_active{
     color: var(--color-body-black);
-    font-size: 14px;
 }
 
-.li-2{
+.link_current{
     color: var(--color-body-gray);
-    font-size: 14px;
 }
 
 
-.section{
-    background-color: var(--color-body-black-2);
-}
-
-h1{
-    color: var(--color-body-white);
-    font-size: 44px;
+.section_caption{
+background-color: var(--color-body-black-2);
 }
 
 .button{
     background-color: var(--color-body-blue);
     color: var(--color-body-white);
-    font-size: 16px;
 }
 
-.h3-1{
+.hero_title{
+    font-size: 44px;
+    color: var(--color-body-white);
+}
+
+
+.subject_medium{
     color: var(--color-body-black);
-    font-size:14px;
+    font-size: 14px;
 }
 
-.p-1{
-color: var(--color-body-gray);
-font-size: 14px;
+.tex_medium{
+    color: var(--color-body-gray);
+    font-size: 14px;
 }
 
-h2{
+
+.caption_big{
     color: var(--color-body-black);
     font-size: 36px;
 }
 
-.section-2{
+
+
+.aside_socials{
     background-color: var(--color-main-backround);
 }
 
-.h3-2{
+.title_advertisement{
     color: var(--color-body-black);
     font-size: 16px;
 }
 
-.p-2{
+.subtitle_small{
     color: var(--color-body-gray);
     font-size: 16px;
 }
 
-footer{
-    background-color: var(--color-body-black-2);
+.footer{
+background-color: var(--color-body-black-2);
 }
 
-.Studio-2{
+.logo_current_2{
     color: var(--color-body-white);
     font-size: 26px;
-}
+}   
 
-.address{
+.link_text{
     color: var(--color-body-white);
     font-size: 14px;
 }
 
-.address-2{
+.link_subtitle{
     color: var(--color-main-size);
     font-size: 14px;
 }
